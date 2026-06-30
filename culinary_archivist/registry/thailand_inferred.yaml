@@ -1,0 +1,41 @@
+region_id: THAILAND_INFERRED
+display_name: Thailand
+sub_regions:
+- Central Thailand
+description: This dish is a variation of Thai yellow curry, which is popular in Thailand
+  and has gained popularity worldwide. It typically features a blend of spices that
+  give it a distinctive flavor profile, often served with rice and garnished with
+  cilantro and lime wedges.
+flavor_profile:
+  dominant: mild, coconut-forward
+  heat_level: low
+  sourness: medium
+signature_spices:
+  tempering_base:
+  - cumin seeds
+  - mustard seeds
+  - turmeric
+  ground:
+  - curry powder
+  - garam masala
+  fat_marker:
+  - coconut oil
+cooking_techniques:
+- The recipe involves stir-frying curry paste with coconut oil
+- followed by simmering the mixture with coconut milk and chicken stock. The dish
+  is cooked in a pot over medium heat.
+landmark_dishes:
+- Thai Yellow Chicken Curry with Potatoes
+- Kaeng Kari
+- Yellow Curry with Chicken and Potatoes
+archaic_terms: {}
+era_markers: {}
+vibe_keywords:
+- coconut
+- spicy
+- comfort food
+- cozy
+- comforting
+- rich
+- homemade
+_discovery_note: Auto-drafted by Discovery Subagent — review before using in production.

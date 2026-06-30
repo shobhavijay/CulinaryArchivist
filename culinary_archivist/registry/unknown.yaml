@@ -1,0 +1,35 @@
+region_id: UNKNOWN
+display_name: UNKNOWN
+sub_regions: []
+description: A rolled mushroom omelet is a dish that combines elements of Western
+  and possibly French culinary traditions with the use of mushrooms and eggs. It may
+  have evolved from similar dishes found in European cuisine but adapted to local
+  tastes and ingredients.
+flavor_profile:
+  dominant: mushroom-rich, egg-based
+  heat_level: mild
+  sourness: low
+signature_spices:
+  tempering_base: []
+  ground: []
+  fat_marker:
+  - clarified butter
+cooking_techniques:
+- Frying
+- rolling
+- and cooking techniques
+- use of clarified butter for flavoring
+landmark_dishes:
+- Rolled Mushroom Omelet
+archaic_terms: {}
+era_markers: {}
+vibe_keywords:
+- eggy
+- savory
+- rolled
+- simple
+- classic
+- vegetarian
+- elegant
+- comfort
+_discovery_note: Auto-drafted by Discovery Subagent — review before using in production.

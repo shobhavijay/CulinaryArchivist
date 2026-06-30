@@ -1,0 +1,38 @@
+region_id: CYPRUS_INFERRED
+display_name: Cyprus
+sub_regions: []
+description: Halloumi is a traditional Cypriot cheese that has been made from sheep's
+  and goat's milk for centuries. This recipe showcases the versatility of Halloumi
+  by grilling it, which allows the cheese to remain firm on the inside while becoming
+  crispy on the outside.
+flavor_profile:
+  dominant: mild, herby, tangy
+  heat_level: low
+  sourness: medium
+signature_spices:
+  tempering_base: []
+  ground:
+  - garam masala
+  fat_marker:
+  - olive oil
+cooking_techniques:
+- The recipe involves grilling Halloumi cheese
+- which is known for its high melting point. The vegetables and herbs are processed
+  into a paste-like mixture to be used as a marinade or accompaniment.
+landmark_dishes:
+- Halloumi Grilled with Vegetables
+- Halloumi Feta Salad
+- Grilled Halloumi with Herbs
+- Halloumi and Tomato Stew
+- Halloumi Cheese Pie
+- Halloumi Skewers
+archaic_terms: {}
+era_markers: {}
+vibe_keywords:
+- grilled
+- Cypriot
+- cheese
+- vegetables
+- herbaceous
+- traditional
+_discovery_note: Auto-drafted by Discovery Subagent — review before using in production.

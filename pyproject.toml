@@ -1,0 +1,61 @@
+[build-system]
+requires = ["setuptools>=61", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "culinary-archivist"
+version = "0.2.0"
+requires-python = ">=3.11"
+dependencies = [
+    # ── LLM orchestration ──────────────────────────────────────────────────────
+    "langgraph>=0.2",
+
+    # ── LLM backends (install at least one) ───────────────────────────────────
+    "ollama>=0.3",               # local Ollama server  (LLM_BACKEND=ollama)
+    "anthropic>=0.30",           # Anthropic Claude API (LLM_BACKEND=anthropic)
+
+    # ── Web UI ─────────────────────────────────────────────────────────────────
+    "chainlit>=1.1",
+
+    # ── Vector store (semantic duplicate detection) ────────────────────────────
+    "chromadb>=0.5",
+
+    # ── OCR ────────────────────────────────────────────────────────────────────
+    "pymupdf>=1.24",             # PyMuPDF + Tesseract OCR (USE_PYMUPDF=true)
+    "pypdf>=4.0",                # PDF text extraction fallback
+
+    # ── PDF generation ─────────────────────────────────────────────────────────
+    "fpdf2>=2.7",
+
+    # ── Image handling ─────────────────────────────────────────────────────────
+    "pillow>=10.0",
+
+    # ── Registry / config ──────────────────────────────────────────────────────
+    "pyyaml>=6.0",
+    "python-dotenv>=1.0",
+
+    # ── Historian research tools ───────────────────────────────────────────────
+    "wikipedia>=1.4",            # Wikipedia search in historian ReAct loop
+    "duckduckgo-search>=6.0",    # Web search in historian ReAct loop
+
+    # ── MCP tool server (optional standalone mode) ─────────────────────────────
+    "fastmcp>=0.4",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0",
+    "pytest-asyncio>=0.23",
+    "ruff>=0.4",
+]
+
+[project.scripts]
+archivist = "culinary_archivist.main:main"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["culinary_archivist*"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"

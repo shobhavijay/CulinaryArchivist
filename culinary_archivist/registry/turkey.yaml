@@ -1,0 +1,46 @@
+region_id: TURKEY
+display_name: Turkey
+sub_regions:
+- Anatolia
+description: This dish combines elements from Turkish cuisine with Mediterranean flavors,
+  specifically using halloumi cheese, a popular ingredient in Greek and Cypriot cuisines.
+  The ezme sauce is a traditional Turkish condiment that adds a spicy kick to the
+  dish.
+flavor_profile:
+  dominant: smoky, spicy, herby
+  heat_level: medium
+  sourness: low
+signature_spices:
+  tempering_base:
+  - cumin seeds
+  - fennel seeds
+  - black mustard seeds
+  ground:
+  - curry powder
+  - paprika
+  fat_marker:
+  - olive oil
+cooking_techniques:
+- The recipe uses a food processor for chopping and blending
+- which is a modern technique but reflects the use of kitchen appliances in contemporary
+  cooking. The grilling method is traditional.
+landmark_dishes:
+- Grilled Halloumi with Ezme
+- Turkish Meze Platter
+- Lahmacun
+- Adana Kebab
+- Iskender Kebab
+- Baklava
+archaic_terms: {}
+era_markers: {}
+vibe_keywords:
+- Turkish
+- Mediterranean
+- Grilled
+- Spicy
+- mediterranean
+- grilled
+- spicy
+- traditional
+- cheese
+_discovery_note: Auto-drafted by Discovery Subagent — review before using in production.

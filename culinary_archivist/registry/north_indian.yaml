@@ -1,0 +1,101 @@
+region_id: NORTH_INDIAN
+display_name: North Indian
+parent_region: South Asia / Indian Subcontinent
+sub_regions:
+  - Punjabi
+  - Mughlai / Awadhi (Lucknow, Delhi)
+  - Rajasthani
+  - Kashmiri
+  - Bihari
+  - Himachali
+  - Uttarakhandi
+
+flavor_profile:
+  dominant: Rich, warming, robust, dairy-forward
+  heat_level: Medium to high
+  sweetness: Present in festive and Mughlai dishes (saffron, rose water, dry fruits)
+  sourness: Subtle (amchur, lemon — rarely tamarind)
+  umami: From slow-cooked meat, caramelised onion, charred tandoor
+
+signature_spices:
+  whole:
+    - cardamom (green)
+    - cardamom (black)
+    - cloves
+    - cinnamon
+    - bay leaf
+    - mace
+    - star anise
+    - stone flower (pathar ke phool)
+  ground:
+    - garam masala
+    - coriander powder
+    - cumin powder
+    - amchur (dry mango)
+    - kashmiri red chilli
+  aromatics:
+    - hing (asafoetida)
+    - kasoori methi (dried fenugreek leaves)
+    - saffron
+    - kewra water
+    - rose water
+  paste_base:
+    - onion-tomato-ginger-garlic masala
+  fat_marker:
+    - ghee
+    - butter
+    - malai (cream)
+    - sarson ka tel (mustard oil)
+
+base_ingredients:
+  starch:
+    - wheat (roti, naan, paratha, puri)
+    - basmati rice (biryani, pulao)
+  protein:
+    - paneer
+    - chicken
+    - mutton
+    - dal (arhar/toor, chana, urad)
+    - chickpeas (chole)
+  fat:
+    - ghee
+    - butter
+    - malai (cream)
+    - sarson ka tel
+  dairy_heavy: true
+
+cooking_techniques:
+  - Tandoor (clay oven — naan, tikka, tandoori chicken)
+  - Dum (sealed slow cooking — biryani, nihari, rogan josh)
+  - Tadka / Chhonk (tempering whole spices in hot ghee)
+  - Bhunai (high-heat stirring to develop masala)
+  - Korma (braising in yoghurt or cream)
+
+archaic_terms:
+  vanaspati: hydrogenated vegetable shortening — common pre-1990s substitute for ghee
+  desi ghee: clarified butter from cow milk (as opposed to buffalo)
+  mawa / khoya: reduced milk solids — used in sweets and rich curries
+  dalda: brand name for vanaspati, used generically in older recipes
+  kesar: saffron
+  sukha dhaniya: dried coriander seeds
+
+landmark_dishes:
+  - Butter Chicken (Murgh Makhani) — Punjab/Delhi, ~1950s
+  - Dal Makhani — Punjabi, slow-cooked black lentils
+  - Rogan Josh — Kashmiri, lamb in aromatic broth
+  - Nihari — Mughlai/Delhi, slow-cooked shank
+  - Chole Bhature — Punjabi street food
+  - Litti Chokha — Bihari, wheat balls with roasted brinjal
+  - Rajma Chawal — Punjab, kidney bean curry with rice
+
+vibe_keywords:
+  - hearty
+  - indulgent
+  - smoky-tandoor
+  - ghee-laden
+  - festive
+  - Mughal-opulent
+  - winter-warming
+  - wheat-country
+  - dhaba-rustic
+  - creamy-tomato-base

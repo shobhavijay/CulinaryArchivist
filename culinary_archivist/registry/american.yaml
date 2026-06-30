@@ -1,0 +1,232 @@
+region_id: AMERICAN
+display_name: American
+parent_region: North America
+sub_regions:
+  - Southern (Soul Food, Cajun, Creole, Low Country)
+  - Midwest (Heartland, German-Polish immigrant, farm)
+  - New England (Yankee, seafood, Colonial)
+  - Southwest (Tex-Mex, New Mexican, Arizona desert)
+  - Pacific Northwest (seafood-forward, farm-to-table)
+  - Hawaiian / Pacific Island
+  - Classic Diner / Mid-Century (1950s–1970s home cooking)
+
+flavor_profile:
+  dominant: Hearty, sweet-savory, smoky, comfort-forward
+  heat_level: Low to medium (spice varies strongly by sub-region; Cajun/Tex-Mex higher)
+  sweetness: Bold and structural (brown sugar, molasses, corn syrup, maple syrup)
+  sourness: Mild (cider vinegar in BBQ, buttermilk tang in baking)
+  umami: From slow-smoked meat, rendered fat, cheese, canned condensed soups (mid-century)
+
+signature_spices:
+  baking:
+    - vanilla extract
+    - cinnamon
+    - nutmeg
+    - allspice
+    - baking powder
+    - baking soda
+    - cream of tartar
+  savory:
+    - smoked paprika
+    - onion powder
+    - garlic powder
+    - cayenne
+    - black pepper
+    - celery salt
+  BBQ_rubs:
+    - brown sugar
+    - smoked paprika
+    - chili powder
+    - cumin
+    - mustard powder
+  Southern_and_Cajun:
+    - Old Bay seasoning
+    - file powder (gumbo)
+    - bay leaf
+    - thyme
+    - oregano
+  fat_marker:
+    - butter (unsalted)
+    - vegetable shortening (Crisco — baking marker)
+    - lard (Southern, pie crusts)
+    - bacon drippings
+    - neutral oil (corn, canola, vegetable)
+
+base_ingredients:
+  starch:
+    - all-purpose flour
+    - cornmeal
+    - white sugar
+    - brown sugar
+    - powdered / confectioners sugar
+    - rolled oats
+    - steel-cut oats
+    - white bread / sandwich loaf
+    - cornstarch (thickener)
+    - graham cracker crumbs (pie crusts)
+    - almond flour
+    - buckwheat flour
+    - pancake mix
+  protein:
+    - beef (chuck, brisket, ground)
+    - pork (ribs, bacon, pulled pork shoulder)
+    - chicken (whole, thighs, drumsticks)
+    - turkey (Thanksgiving centrepiece)
+    - shrimp (Gulf / Low Country)
+    - crab (New England, Chesapeake)
+    - tuna (canned — mid-century casseroles)
+    - eggs (whole, whites, yolks)
+  dairy:
+    - butter
+    - whole milk
+    - buttermilk (baking, fried chicken)
+    - heavy cream
+    - cream cheese
+    - sour cream
+    - cheddar cheese
+    - Velveeta / American cheese (mid-century)
+    - evaporated milk
+    - sweetened condensed milk
+  breakfast_staples:
+    - eggs
+    - egg whites
+    - bananas
+    - blueberries
+    - strawberries
+    - raspberries
+    - mixed berries
+    - apples
+    - peaches
+    - honey
+    - maple syrup
+    - Greek yogurt
+    - almond milk
+    - oat milk
+    - nut butter (peanut, almond)
+    - chia seeds
+    - flaxseed
+    - walnuts
+    - pecans
+    - almonds
+    - sliced almonds
+  pantry_markers:
+    - ketchup
+    - Worcestershire sauce
+    - yellow mustard
+    - hot sauce (Tabasco, Frank's)
+    - maple syrup
+    - molasses
+    - corn syrup (light and dark)
+    - canned condensed soups (Campbell's — mid-century casseroles)
+    - vanilla extract
+  fat:
+    - butter
+    - shortening
+    - lard
+    - bacon drippings
+    - cocunut oil
+    - olive oil
+
+cooking_techniques:
+  - Griddle cooking (pancakes, French toast, hash browns)
+  - Stovetop scrambling / poaching / frying eggs
+  - Overnight oats (no-cook cold soak)
+  - Slow smoking (BBQ — indirect low heat, wood chips)
+  - Deep frying (Southern fried chicken, doughnuts, hush puppies)
+  - Baking in 9x13 casserole or Bundt pan
+  - Creaming butter and sugar (cookie and cake base)
+  - Blind baking pie shells
+  - Braising / pot roast (Dutch oven, low and slow)
+  - Grilling over charcoal or gas (burgers, ribs, corn)
+  - Casserole baking (green bean casserole, tuna noodle casserole)
+  - Sheet pan cooking
+  - Steaming / boiling seafood (New England clam bake, Low Country boil)
+
+archaic_terms:
+  shortening: hydrogenated vegetable fat (Crisco) — baking workhorse pre-1980s
+  lard: rendered pig fat — traditional Southern pie crust and frying fat
+  oleo / margarine: butter substitute — Depression and WWII-era recipes
+  scant: just under a full measure ("scant teaspoon")
+  heaping: generously overfilled measure ("heaping tablespoon")
+  fold: gently incorporate without deflating (soufflé, cake batter)
+  soft peaks / stiff peaks: whipped cream or meringue stages
+  cream together: beat butter and sugar until pale and fluffy
+  double boiler: bowl over simmering water (chocolate melting, custards)
+  blanch: briefly boil then ice-bath (vegetables — preserves color)
+  coddle: very gentle simmer just below boiling (eggs)
+  graham crackers: honey-wheat crackers — key cheesecake / s'mores ingredient
+  file powder: ground sassafras leaf — Cajun gumbo thickener and flavour
+  roux: cooked fat-flour base — white, blonde, or dark (Cajun dark roux is 40 min stirring)
+
+landmark_dishes:
+  breakfast:
+    - Buttermilk Pancakes — fluffy stack, butter and maple syrup
+    - Almond Flour Pancakes — gluten-free, banana-egg base or almond flour
+    - French Toast — egg-milk custard dipped bread, cinnamon, maple syrup
+    - Overnight Oats — rolled oats soaked in milk or yogurt, topped with fruit and nut butter
+    - Steel-Cut Oatmeal — slow-cooked, topped with berries, honey, or brown sugar
+    - Avocado Toast — smashed avocado on sourdough, everything bagel seasoning or poached egg
+    - Eggs Benedict — poached egg, Canadian bacon, hollandaise on English muffin
+    - Denver Omelette — egg, ham, bell pepper, onion, cheddar
+    - Shakshuka — eggs poached in spiced tomato-pepper sauce (Southwest/modern American)
+    - Smoothie Bowl — blended frozen fruit base topped with granola, seeds, sliced fruit
+    - Granola with Yogurt and Berries — baked oat clusters with nuts and honey
+    - Banana Oat Pancakes — 2-ingredient (banana + egg), almond flour optional
+    - Acai Bowl — blended acai, topped with granola, banana, berries (Pacific / California)
+    - Blueberry Muffins — quick bread, buttermilk, fresh or frozen blueberries
+    - Waffles — crisp exterior, maple syrup; Belgian style with deep pockets
+    - Hash Browns — shredded and pan-fried potato, crispy exterior
+    - Biscuits and Gravy — flaky buttermilk biscuits, pork sausage cream gravy (Southern)
+  desserts:
+    - Apple Pie — quintessential American, double crust or crumb top
+    - Chocolate Chip Cookies — Toll House origin, 1938
+    - New York Cheesecake — cream cheese, graham cracker crust
+    - Pecan Pie — Southern, corn syrup base
+    - Banana Pudding — layered, Nilla wafers, Southern tradition
+    - Carrot Cake with Cream Cheese Frosting
+    - Red Velvet Cake — Southern origin, buttermilk and cocoa
+    - Brownies — fudgy vs cakey spectrum
+    - Key Lime Pie — Florida, condensed milk, lime, meringue or whipped cream
+    - S'mores — campfire, graham cracker-chocolate-marshmallow
+    - Pumpkin Pie — Thanksgiving staple, evaporated milk custard
+    - Bread Pudding with Whiskey Sauce — New Orleans
+    - Biscuits and Gravy — Southern breakfast, sausage cream gravy
+    - Funnel Cake — fair food, fried batter dusted with powdered sugar
+  dinners:
+    - Fried Chicken — Southern, buttermilk brine, seasoned flour
+    - BBQ Brisket — Texas, smoked low and slow, salt-pepper bark
+    - Pulled Pork — Carolinas, slow-smoked shoulder, vinegar or mustard sauce
+    - Meatloaf — Mid-century, ketchup glaze, breadcrumb binder
+    - Mac and Cheese — baked, bechamel or egg-set, cheddar
+    - Green Bean Casserole — Mid-century, Campbell's cream of mushroom, fried onion topping
+    - Pot Roast — chuck, carrots, potatoes, Dutch oven Sunday dinner
+    - Gumbo — Louisiana, dark roux, holy trinity, okra or file
+    - Clam Chowder — New England, cream-based; Manhattan, tomato-based
+    - Jambalaya — Cajun/Creole, rice one-pot, andouille sausage, shrimp
+    - Tuna Noodle Casserole — Mid-century, cream of mushroom, egg noodles
+    - Chili — Texas (no beans), Midwest (with beans), Cincinnati (over spaghetti)
+    - Buffalo Wings — Buffalo NY, Frank's hot sauce and butter, served with blue cheese
+    - Lobster Roll — New England, mayo (cold) or butter (hot), split-top bun
+    - Cornbread — Southern, cast iron, buttermilk; Northern, sweeter
+
+vibe_keywords:
+  - comfort-food
+  - potluck-classic
+  - church-supper
+  - backyard-BBQ
+  - Thanksgiving-table
+  - diner-counter
+  - mid-century-casserole
+  - cast-iron-Southern
+  - state-fair
+  - Sunday-roast
+  - campfire
+  - blue-ribbon-bake
+  - slow-smoked
+  - sweet-and-hearty
+  - weekend-brunch
+  - healthy-breakfast
+  - maple-morning
+  - griddle-stack
+  - overnight-prep
+  - bowl-food

@@ -1,0 +1,61 @@
+# ── Secrets — never commit ────────────────────────────────────────────────────
+.env
+
+# ── Python ────────────────────────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# ── Virtual environments ──────────────────────────────────────────────────────
+venv/
+.venv/
+env/
+
+# ── Build artefacts ───────────────────────────────────────────────────────────
+dist/
+build/
+*.egg-info/
+*.whl
+*.tar.gz
+
+# ── Data stores (generated at runtime — not source) ──────────────────────────
+db/
+chroma/
+output/
+data/
+logs/
+
+# ── Reflexion memory (cross-session lessons — local to each install) ──────────
+# Remove this line if you want to share lessons across team members via git.
+db/reflexion_memory.json
+
+# ── Backup directories ────────────────────────────────────────────────────────
+backup_*/
+
+# ── Superseded architecture drafts ───────────────────────────────────────────
+ARCHITECTURE_PROPOSAL.md
+ARCHITECTURE_PROPOSAL_v2.md
+ARCHITECTURE_PROPOSAL_v3.md
+BLOG_POST.md
+
+# ── Chainlit ──────────────────────────────────────────────────────────────────
+.chainlit/
+chainlit.md
+
+# ── macOS ─────────────────────────────────────────────────────────────────────
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# ── IDEs ──────────────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ── Test artefacts ────────────────────────────────────────────────────────────
+.pytest_cache/
+.coverage
+htmlcov/

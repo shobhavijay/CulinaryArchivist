@@ -1,0 +1,56 @@
+region_id: SOUTH_INDIA
+display_name: South India, Kerala region, Tamil Nadu region, Karnataka Region, 
+sub_regions:
+- Kerala / Malabar coast
+description: Semiya Payasam is a beloved South Indian sweet pudding with deep roots
+  in Kerala cuisine, particularly associated with festive occasions like Onam. The
+  dish reflects the region's abundant use of clarified butter (ghee), milk-based desserts,
+  and the influence of cardamom and dried fruit garnishes. It remains a staple in
+  Sadya (traditional Kerala feast) and modern celebrations.
+flavor_profile:
+  dominant: sweet, nutty, creamy, cardamom-scented
+  heat_level: mild
+  sourness: low
+signature_spices:
+  tempering_base:
+  - cardamom pods
+  - cashews
+  - raisins
+  ground:
+  - cardamom powder
+  fat_marker:
+  - ghee
+cooking_techniques:
+- Roasting of vermicelli (semiya) in ghee to develop nutty flavor
+- slow simmering in milk with condensed milk or khoya for creamy consistency
+- tempering with fried cashews and raisins in clarified butter
+- cardamom infusion for aromatic finish. Ghee is central to flavor development and
+  traditional preparation.
+landmark_dishes:
+- Semiya Payasam
+- Sameya Payasam
+- Vermicelli Payasam 
+- Payasam with Jaggery
+- Condensed Milk Semiya Pudding
+- Roasted Vermicelli Kheer
+- Cardamom-Scented Semiya Dessert
+- Kerala Sadya Semiya
+- Khoya-Based Semiya Payasam
+- Instant Pot Semiya Payasam
+archaic_terms:
+  khoya: condensed milk or milk solids [modern equivalent]
+  samba: clarified butter / ghee [archaic term variant]
+era_markers:
+  general: traditional [inferred]
+vibe_keywords:
+- creamy
+- ghee-rich
+- cardamom-scented
+- vermicelli-based
+- luxurious
+- mild-sweet
+- festive
+- comforting
+- slow-cooked
+- aromatic
+_discovery_note: Auto-drafted by Discovery Subagent — review before using in production.

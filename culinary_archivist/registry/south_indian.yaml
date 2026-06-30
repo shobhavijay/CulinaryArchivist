@@ -1,0 +1,122 @@
+region_id: SOUTH_INDIAN
+display_name: South Indian
+parent_region: South Asia / Indian Subcontinent
+sub_regions:
+  - Tamil Nadu (Chettinad, Brahmin, Kongu)
+  - Kerala (Malabar, Syrian Christian, Nair, Sadya)
+  - Karnataka (Udupi, Kodagu/Coorg, North Karnataka)
+  - Andhra Pradesh (Rayalaseema, Coastal Andhra)
+  - Telangana
+  - Konkani (coastal Karnataka/Goa overlap)
+
+flavor_profile:
+  dominant: Bright, tangy, earthy, coconut-forward, fermented
+  heat_level: High (fresh green chilli, guntur dry chilli)
+  sourness: Bold and structural (tamarind, kokum, raw mango, dried buttermilk)
+  sweetness: Restrained (jaggery as a balancer, not a feature)
+  umami: From fermentation (idli/dosa batter), dried fish, curry leaf
+
+signature_spices:
+  tempering_base:
+    - mustard seeds
+    - curry leaves
+    - dried red chilli
+    - urad dal
+    - chana dal
+  ground:
+    - sambar powder
+    - rasam powder
+    - coriander-cumin base
+  aromatics:
+    - curry leaves (essential)
+    - fresh coconut
+    - dried coconut
+    - asafoetida
+  souring_agents:
+    - tamarind
+    - kokum
+    - kudampuli (Malabar tamarind)
+    - raw mango
+  fat_marker:
+    - coconut oil (primary)
+    - sesame/gingelly oil
+    - regular cooking oil
+  unique:
+    - guntur chilli
+    - byadagi chilli
+    - kalpasi (Chettinad black stone flower)
+    - marathi mokku
+    - kapok buds
+
+
+base_ingredients:
+  starch:
+    - rice (short-grain, red rice, parboiled)
+    - rice flour
+    - idli rice
+    - semolina
+    - rava/ravai
+  fermented:
+    - idli batter
+    - dosa batter
+    - appam batter
+    - kanji
+  protein:
+    - lentils (toor dal, moong, masoor, chana)
+    - coconut
+    - fish
+    - prawns
+    - chicken
+  fat:
+    - coconut oil
+    - sesame oil (gingelly)
+  dairy_light: true
+
+cooking_techniques:
+  - Stone-grinding (wet grinder for batters and chutneys)
+  - Fermentation (overnight for idli/dosa)
+  - Tadka with curry leaves and mustard seeds
+  - Steaming (idli, puttu, modak)
+  - Slow tamarind reduction (sambar, rasam base)
+  - Banana leaf service (Sadya)
+
+archaic_terms:
+  vengaya: shallot/small onion (Tamil)
+  puli: tamarind (Tamil)
+  kothimalli: coriander leaves (Tamil)
+  inji: ginger (Tamil/Malayalam)
+  nallennai: sesame oil (Tamil)
+  pachadi: yoghurt-based side dish or raw relish
+  kolambu / kuzhambu: thick tamarind-based curry (Tamil)
+  vathal: sun-dried vegetables or lentil wafers
+  kokum: dried fruit souring agent — Kerala / Konkani coastal marker
+  kudampuli / gamboge: Malabar tamarind — Kerala fish curry souring agent
+
+landmark_dishes:
+  - Masala Dosa — Karnataka (Udupi origin)
+  - Chettinad Chicken Curry — Tamil Nadu, intensely spiced
+  - Kerala Fish Curry (Meen Curry with kudampuli) — Kerala coastal
+  - Hyderabadi Biryani — Telangana, dum-cooked
+  - Bisi Bele Bath — Karnataka, rice-lentil-vegetable one-pot
+  - Sadya — Kerala, 20+ dish banana leaf feast
+  - Avial — Kerala / Tamil Nadu, mixed vegetables in coconut-yoghurt
+  - Puttu-Kadala — Kerala breakfast
+  - Vegetable Upma
+  - Poriyal
+  - Kozhambu/Sambar
+  - Rasam/ Mysore Rasam
+  - Kara Kozhambhu
+  - Kootu
+  
+
+vibe_keywords:
+  - bright-tangy
+  - coconut-earthy
+  - fermented-sour
+  - temple-food
+  - banana-leaf
+  - chilli-fire
+  - coastal-seafood
+  - rice-country
+  - ayurvedic-balance
+  - monsoon-comfort

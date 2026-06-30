@@ -1,0 +1,50 @@
+region_id: BELGIUM_SCANDINAVIA_INFERRED
+display_name: Belgium / Scandinavia
+sub_regions:
+- Brussels region / Northern Europe
+description: 'This recipe combines two European culinary traditions: Belgian endive,
+  developed in Belgium in the 1850s and celebrated as ''white gold,'' with smoked
+  salmon, a Scandinavian preservation and delicacy tradition. The endive boat format
+  emerged as a modern elegant appetizer, likely in mid-20th century fine dining contexts,
+  representing the post-war embrace of refined cold hors d''oeuvres.'
+flavor_profile:
+  dominant: briny, creamy, slightly bitter with herbaceous notes
+  heat_level: mild
+  sourness: medium
+signature_spices:
+  tempering_base: []
+  ground: []
+  fat_marker:
+  - crème fraîche
+  - cream cheese
+  - butter
+cooking_techniques:
+- Cold assembly technique
+- use of Belgian endive leaves as edible vessels
+- cream cheese and crème fraîche emulsification for mousse consistency
+- optional roe garnish adds textural contrast and visual elegance
+landmark_dishes:
+- Smoked Salmon Endive Boats
+- Smoked Salmon Mousse on Rye Toasts
+- Shrimp Endive Boats
+- Endive Spears with Crème Fraîche
+- Caviar-Topped Endive Boats
+- Smoked Salmon Mousse Appetizer
+- Belgian Endive with Lox and Dill
+- Endive Boats with Roe Garnish
+archaic_terms:
+  creme fraiche: sour cream (modern substitute)
+era_markers:
+  general: mid-to-late 20th century [inferred]
+vibe_keywords:
+- elegant
+- refined
+- fresh
+- slightly bitter
+- creamy
+- smoky
+- delicate
+- minimalist
+- luxury appetizer
+- cold preparation
+_discovery_note: Auto-drafted by Discovery Subagent — review before using in production.

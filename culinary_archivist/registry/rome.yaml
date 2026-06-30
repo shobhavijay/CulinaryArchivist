@@ -1,0 +1,36 @@
+region_id: ROME
+display_name: Rome, Italy
+sub_regions: []
+description: Fettuccine Alfredo is named after Alfredo Di Lelio, who created it as
+  a tableside dish at his restaurant in Rome in the early 20th century. It was initially
+  served with just butter and cheese but later evolved to include additional ingredients
+  outside of Italy.
+flavor_profile:
+  dominant: rich, creamy, buttery
+  heat_level: mild
+  sourness: low
+signature_spices:
+  tempering_base: []
+  ground: []
+  fat_marker:
+  - butter
+cooking_techniques:
+- The technique involves tossing the pasta with melted butter and grated parmesan
+  cheese to form a rich sauce. The use of hot pasta water helps in emulsifying the
+  ingredients.
+landmark_dishes:
+- Fettuccine Alfredo
+- Pasta al Burro
+- Pasta in Bianco
+archaic_terms: {}
+era_markers:
+  general: 20th century [inferred]
+vibe_keywords:
+- Italian
+- classy
+- romantic
+- tableside
+- classic
+- cheesy
+- comfort
+_discovery_note: Auto-drafted by Discovery Subagent — review before using in production.
