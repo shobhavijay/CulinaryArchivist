@@ -149,7 +149,7 @@ pre_flight_router → restorer → quality_evaluator
 ## Project structure
 
 ```
-CulinaryArchivist_ver2/
+CulinaryArchivist/
 ├── app.py                          # Chainlit web UI entry point
 ├── pyproject.toml                  # Package definition and dependencies
 ├── .env.example                    # Environment template (copy to .env)
