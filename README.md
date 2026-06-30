@@ -55,7 +55,7 @@ Note: the embedding model (`nomic-embed-text`) always runs via Ollama regardless
 ```bash
 # 1. Clone / download the project
 git clone <repo-url>
-cd CulinaryArchivist_ver2
+cd CulinaryArchivist
 
 # 2. Create a virtual environment
 python3.11 -m venv venv
